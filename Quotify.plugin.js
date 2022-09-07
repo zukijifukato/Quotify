@@ -3,7 +3,7 @@
  * @author zukijifukato 
  * @description Set random quote as custom status at interval
  * @version 0.0.1
- * @invite inviteCode
+ * @invite https://discord.gg/auBKdDgEuy
  * @authorId 775252975643263006
  * @authorLink https://twitter.com/zukijifukato
  * @website https://github.com/zukijifukato/Quotify
