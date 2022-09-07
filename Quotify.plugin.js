@@ -7,6 +7,7 @@
  * @authorId 775252975643263006
  * @authorLink https://twitter.com/zukijifukato
  * @website https://github.com/zukijifukato/Quotify
+ * @source https://raw.githubusercontent.com/zukijifukato/Quotify/main/Quotify.plugin.js
  */
 
 module.exports = class Quotify {
