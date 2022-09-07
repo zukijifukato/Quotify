@@ -16,8 +16,7 @@ module.exports = class Quotify {
     this.timeout = 30000;
 
     Status.authToken = BdApi.Webpack.getModule(m => m.default && m.default.getToken).default.getToken();
-		this.currentUser = BdApi.Webpack.getModule(m => m.default && m.default.getCurrentUser).default.getCurrentUser();
-    console.log(Status.authToken, this.currentUser);
+    this.currentUser = BdApi.Webpack.getModule(m => m.default && m.default.getCurrentUser).default.getCurrentUser();
   }
 
   start() {
