@@ -1,7 +1,7 @@
 /**
  * @name Quotify 
  * @author zukijifukato 
- * @description Set random quote as custom status at interval
+ * @description A BetterDiscord plugin to set random quote as custom status at interval
  * @version 0.0.1
  * @invite https://discord.gg/auBKdDgEuy
  * @authorId 775252975643263006

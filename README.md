@@ -1,5 +1,5 @@
 # Quotify
-Set random quote as custom status at interval.
+A BetterDiscord plugin to set random quote as custom status at interval.
 
 ## TODO
 - Add settings
